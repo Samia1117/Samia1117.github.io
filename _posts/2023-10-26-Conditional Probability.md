@@ -1,12 +1,11 @@
 ---
-title: "Truly Understanding Conditional Probability - It Doesn't Defy Intuition!"
+title: "Understanding Conditional Probability - It Doesn't Defy Intuition!"
 mathjax: true
-permalink: /posts/conditional-probability/
 layout: post
 categories: media
 ---
 ## What the formula says
-![Conditional-Probability](/assets/Conditional_Probability.png)
+![Conditional-Probability](../assets/Conditional_Probability.png)
 
 ### How we should understand it
 [3B1B Version For Reference](https://youtu.be/HZGCoVF3YvM?si=E_h42hDnknGIAYVu)
